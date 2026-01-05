@@ -246,7 +246,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-**Ernesto Loredo**
+**Ernesto Montaño Loredo**
 - GitHub: [@ernestoloredo](https://github.com/ernestoloredo)
 - Project Link: [https://github.com/ernestoloredo/ofac-app](https://github.com/ernestoloredo/ofac-app)
 
